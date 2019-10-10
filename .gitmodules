@@ -1,0 +1,12 @@
+[submodule "start/vim-airline"]
+	path = start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "start/hexmode"]
+	path = start/hexmode
+	url = https://github.com/fidian/hexmode.git
+[submodule "start/vim-better-whitespace"]
+	path = start/vim-better-whitespace
+	url = https://github.com/ntpeters/vim-better-whitespace
+[submodule "start/vim-polyglot"]
+	path = start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot
