@@ -12,3 +12,7 @@ hi CSVDelimiter ctermfg=7 ctermbg=0
 
 " Enable spell checking on LaTeX files
 au BufEnter *.tex :set spell spelllang=en_us spell
+
+" Disable mouse
+set mouse=
+set ttymouse=
